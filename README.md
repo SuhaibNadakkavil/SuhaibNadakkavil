@@ -67,7 +67,7 @@ I build modern, responsive landing pages, portfolios, and business websites usin
 
 ## Contact
 
-- Email: suhaibmd268@gmail.com
+- Email: suhaibnadakkavil4@gmail.com
 - GitHub: [@SuhaibNadakkavil](https://github.com/SuhaibNadakkavil)
 - Linkedin: https://www.linkedin.com/in/suhaib-nadakkavil
 - Upwork: https://www.upwork.com/freelancers/~012876e4fa1f5b379b
